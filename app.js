@@ -68,6 +68,9 @@ const reset=()=>{
     sec.innerHTML = '0';
     msec.innerHTML='0';
     msec.innerHTML='0';
+    secCount=0;
+    centiSecCount=0;
+    minCount=0;
 }
 
 const lap=()=>{
